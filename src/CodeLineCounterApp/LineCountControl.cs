@@ -9,6 +9,7 @@ namespace CodeLineCounterApp
 {
 	/// <summary>
 	/// Summary description for LineCount.
+	///another comment
 	/// </summary>
 	public class LineCountControl : System.Windows.Forms.UserControl
 	{

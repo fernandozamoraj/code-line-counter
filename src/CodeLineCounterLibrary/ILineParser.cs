@@ -9,4 +9,6 @@ namespace CodeLineCounterLibrary
 	{
 		LineType Parse(string line);		
 	}
+
+    //added comment her to test commit using git
 }

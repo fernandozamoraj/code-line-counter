@@ -10,6 +10,7 @@ namespace CodeLineCounterApp
 {
 	/// <summary>
 	/// Summary description for Form1.
+    /// testing for git
 	/// </summary>
 	public class Form1 : System.Windows.Forms.Form
 	{
